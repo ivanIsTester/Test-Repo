@@ -1,2 +1,2 @@
 # Test-Repo
-Jut for testing
+Just for testing
